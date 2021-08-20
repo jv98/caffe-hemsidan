@@ -41,12 +41,15 @@ html body {
   }
   .info_coffe{
     background-color: #3c2406;
+   display: flex;
+    justify-content: center;
     
   }
   .img_info{
     border-radius: 50%;
     height: 12rem;
-    padding: 2rem;
+   
+   
   }
   footer{
     background-color: black;
@@ -69,6 +72,7 @@ html body {
     cursor: pointer;
   }
   .text_styling{
-   display: flex;
+    margin-top: 4rem;
+   
   }
   
